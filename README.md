@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning Frontend **learning Frontend**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/nira-bohara-41193236b](www.linkedin.com/in/nira-bohara-41193236b)
-
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/nira-bohara-41193236b
 - 💬 Ask me about **HTML CSS JAVASCRIPT**
 
 - 📫 How to reach **nirub3890@gmail.com**
